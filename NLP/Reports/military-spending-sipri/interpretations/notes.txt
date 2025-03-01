@@ -1,0 +1,71 @@
+Country: Canada
+For Canada, the last recorded expenditure in 2023 was $27,257,029,000.00. The model predicts an expenditure of $28,649,263,104.00 for 2024, representing a change of $1,392,234,104.00 (5.11%). This suggests a potential increase in military expenditure.
+
+Country: China
+For China, the last recorded expenditure in 2023 was $309,484,320,000.00. The model predicts an expenditure of $328,011,841,536.00 for 2024, representing a change of $18,527,521,536.00 (5.99%). This suggests a potential increase in military expenditure.
+
+Country: France
+For France, the last recorded expenditure in 2023 was $57,124,717,000.00. The model predicts an expenditure of $52,221,890,560.00 for 2024, representing a change of $-4,902,826,440.00 (-8.58%). This suggests a potential decrease in military expenditure.
+
+Country: Germany
+For Germany, the last recorded expenditure in 2023 was $61,187,424,000.00. The model predicts an expenditure of $52,061,528,064.00 for 2024, representing a change of $-9,125,895,936.00 (-14.91%). This suggests a potential decrease in military expenditure.
+
+Country: Japan
+For Japan, the last recorded expenditure in 2023 was $51,887,980,000.00. The model predicts an expenditure of $44,281,905,152.00 for 2024, representing a change of $-7,606,074,848.00 (-14.66%). This suggests a potential decrease in military expenditure.
+
+Country: Israel
+For Israel, the last recorded expenditure in 2023 was $28,956,834,000.00. The model predicts an expenditure of $24,591,347,712.00 for 2024, representing a change of $-4,365,486,288.00 (-15.08%). This suggests a potential decrease in military expenditure.
+
+Country: Italy
+For Italy, the last recorded expenditure in 2023 was $32,634,774,000.00. The model predicts an expenditure of $31,244,439,552.00 for 2024, representing a change of $-1,390,334,448.00 (-4.26%). This suggests a potential decrease in military expenditure.
+
+Country: Spain
+For Spain, the last recorded expenditure in 2023 was $22,293,187,000.00. The model predicts an expenditure of $18,493,616,128.00 for 2024, representing a change of $-3,799,570,872.00 (-17.04%). This suggests a potential decrease in military expenditure.
+
+Country: United Kingdom
+For United Kingdom, the last recorded expenditure in 2023 was $69,153,235,000.00. The model predicts an expenditure of $61,179,494,400.00 for 2024, representing a change of $-7,973,740,600.00 (-11.53%). This suggests a potential decrease in military expenditure.
+
+Country: United States
+For United States, the last recorded expenditure in 2023 was $880,070,560,000.00. The model predicts an expenditure of $830,249,762,816.00 for 2024, representing a change of $-49,820,797,184.00 (-5.66%). This suggests a potential decrease in military expenditure.
+
+Military Spending with Anomalies for Selected Countries
+Dynamic Interpretation:
+- China:
+  - Experienced 13 anomaly/anomalies in military spending.
+  - Latest recorded military spending (2023): $309,484,320,000.00 (constant US$).
+  - Recent trend: Increasing military spending.
+- United States:
+  - Experienced 75 anomaly/anomalies in military spending.
+  - Latest recorded military spending (2023): $880,070,560,000.00 (constant US$).
+  - Recent trend: Increasing military spending.
+- Russia:
+  - Experienced 1 anomaly/anomalies in military spending.
+  - Latest recorded military spending (2023): $126,473,355,000.00 (constant US$).
+  - Recent trend: Increasing military spending.
+
+  
+Military Spending Above Mean in 2020Interpretation of Military Spending Above Mean in 2020:
+
+In 2020, the following countries had military expenditures exceeding the mean ($48,352,157,420.06):
+
+- World: $2,148,920,600,000.00
+- Americas (SIPRI): $968,243,700,000.00
+- North America (SIPRI): $906,450,800,000.00
+- United States: $880,185,250,000.00
+- Asia & Oceania (SIPRI): $549,652,100,000.00
+- Europe (SIPRI): $409,546,720,000.00
+- East Asia (SIPRI): $373,200,220,000.00
+- Western Europe (SIPRI): $283,022,600,000.00
+- China: $272,509,060,000.00
+- Middle East (SIPRI): $180,900,130,000.00
+- South Asia (SIPRI): $94,617,860,000.00
+- Eastern Europe (SIPRI): $89,873,105,000.00
+- Russia: $77,544,910,000.00
+- India: $77,085,470,000.00
+- Saudi Arabia: $68,182,163,000.00
+- United Kingdom: $62,064,890,000.00
+- Germany: $54,191,854,000.00
+- France: $52,053,620,000.00
+- South America (SIPRI): $49,550,890,000.00
+
+World had the highest military expenditure at $2,148,920,600,000.00.
